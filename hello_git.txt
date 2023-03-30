@@ -7,3 +7,4 @@ master
 hot-fix
 power from remote
 power from local
+power from github
