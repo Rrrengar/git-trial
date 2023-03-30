@@ -6,3 +6,4 @@ Test git2222222
 master
 hot-fix
 power from remote
+power from local
